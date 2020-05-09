@@ -1,6 +1,13 @@
-# firebase-vue-todo
+# TODOアプリ開発
+Frontend: Vue.js
 
-> A Vue.js project
+## TODO
+- [x] Vue.js導入
+- [x] Vuex導入
+- [x] storeに値を保存
+- [ ] axios導入
+- [ ] REST APIを叩く
+- [ ] Django導入
 
 ## Build Setup
 
